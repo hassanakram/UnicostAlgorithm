@@ -1,0 +1,22 @@
+run code with java command 
+
+CMD :#   java UniCostAlgo first_city_name second_city_name
+
+( first_city_name  and second_city_name are command line arguements )
+
+List of cities is below :
+
+TownMakamSakoon
+Matli
+Digri
+KotGhulamMohammad
+TanduGhulamALi
+MirwahGorchani
+ShaikhBhirkio
+TanduAllahYar
+TanduMohammadKhan
+Hyderabad
+TanduJam
+MirpurKhas
+Sherosherani
+YarMohammadKhaskheli
